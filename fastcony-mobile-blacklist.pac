@@ -1,7 +1,6 @@
 var RULES = [
   ["IP-CIDR", "8.8.8.8/32", "Direct"],
   ["IP-CIDR", "216.146.36.36/32", "Direct"],
-  ["DOMAIN-SUFFIX", "getmalus.com", "Direct"],
   ["DOMAIN-SUFFIX", "google-analytics.com", "Direct"],
   ["DOMAIN-SUFFIX", "effect.douyin.com", "Proxy"],
   ["DOMAIN-SUFFIX", "bbs.93x.net", "Proxy"],
@@ -398,82 +397,82 @@ var RULES = [
   [
     "URL-REGEX",
     "http:\\/\\/www\\.missevan\\.com\\/sound\\/getsound.*",
-    "Proxy"
+    "Proxy",
   ],
   [
     "URL-REGEX",
     "http:\\/\\/www\\.missevan\\.com\\/sound\\/getimages.*",
-    "Proxy"
+    "Proxy",
   ],
   ["URL-REGEX", "http:\\/\\/www\\.soku\\.com\\/search_video\\/.*", "Proxy"],
   ["URL-REGEX", "http:\\/\\/[^/]*\\.letv\\.cn\\/vod\\/v2\\/.*", "Proxy"],
   [
     "URL-REGEX",
     "http:\\/\\/chrome\\.2345\\.com\\/dianhua\\/index\\.php\\?m=call&f=check&.*",
-    "Proxy"
+    "Proxy",
   ],
   [
     "URL-REGEX",
     "http:\\/\\/[^/]*\\.letv\\.com\\/mms\\/out\\/video\\/play.*",
-    "Proxy"
+    "Proxy",
   ],
   [
     "URL-REGEX",
     "http:\\/\\/ip\\.apps\\.cntv\\.cn\\/js\\/player\\.do.*",
-    "Proxy"
+    "Proxy",
   ],
   ["URL-REGEX", "http:\\/\\/vdn\\.apps\\.cntv\\.cn\\/api\\/get.*", "Proxy"],
   ["URL-REGEX", "http:\\/\\/vdn\\.live\\.cntv\\.cn\\/api2\\/.*", "Proxy"],
   [
     "URL-REGEX",
     "http:\\/\\/cctv1\\.vtime\\.cntv\\.cloudcdn\\.net\\/cache\\/.*",
-    "Proxy"
+    "Proxy",
   ],
   [
     "URL-REGEX",
     "http:\\/\\/cctv5\\.vtime\\.cntv\\.cloudcdn\\.net\\/cache\\/.*",
-    "Proxy"
+    "Proxy",
   ],
   [
     "URL-REGEX",
     "http:\\/\\/cctv5plus\\.vtime\\.cntv\\.cloudcdn\\.net\\/cache\\/.*",
-    "Proxy"
+    "Proxy",
   ],
   [
     "URL-REGEX",
     "http:\\/\\/cctv13\\.vtime\\.cntv\\.cloudcdn\\.net\\/cache\\/.*",
-    "Proxy"
+    "Proxy",
   ],
   [
     "URL-REGEX",
     "http:\\/\\/sports1pull\\.live\\.wscdns\\.com\\/live\\/aoyun2",
-    "Proxy"
+    "Proxy",
   ],
   ["URL-REGEX", "http:\\/\\/vip\\.sports\\.cntv\\.cn\\/check\\.do.*", "Proxy"],
   ["URL-REGEX", "http:\\/\\/vip\\.sports\\.cntv\\.cn\\/play\\.do.*", "Proxy"],
   [
     "URL-REGEX",
     "http:\\/\\/vip\\.sports\\.cntv\\.cn\\/servlets\\/encryptvideopath\\.do.*",
-    "Proxy"
+    "Proxy",
   ],
   [
     "URL-REGEX",
     "http:\\/\\/www\\.kuwo\\.cn\\/yy\\/PlayCheckIp\\?callback=checkIpCallback&_=.*",
-    "Proxy"
+    "Proxy",
   ],
   ["URL-REGEX", "http:\\/\\/antiserver\\.kuwo\\.cn\\/anti\\.s\\?.*", "Proxy"],
   ["URL-REGEX", "http:\\/\\/ipcheck\\.kuwo\\.cn\\/ip_check\\.kuwo.*", "Proxy"],
   [
     "URL-REGEX",
     "http:\\/\\/[^/]*\\.dpool\\.sina\\.com\\.cn\\/iplookup.*",
-    "Proxy"
+    "Proxy",
   ],
   ["URL-REGEX", "http:\\/\\/www\\.yinyuetai\\.com\\/insite\\/.*", "Proxy"],
   ["URL-REGEX", "http:\\/\\/www\\.yinyuetai\\.com\\/main\\/get\\-.*", "Proxy"],
   [
     "URL-REGEX",
     "http:\\/\\/www\\.kugou\\.com\\/interface\\/geoip\\/.*",
-    "Proxy"
+    "Proxy",
   ],
   ["URL-REGEX", "http:\\/\\/music\\.163\\.com\\/api\\/.*", "Proxy"],
   ["URL-REGEX", "https:\\/\\/music\\.163\\.com\\/api\\/.*", "Proxy"],
@@ -482,44 +481,44 @@ var RULES = [
   [
     "URL-REGEX",
     "http:\\/\\/v\\.pps\\.tv\\/ugc\\/ajax\\/aj_html5_url\\.php.*",
-    "Proxy"
+    "Proxy",
   ],
   [
     "URL-REGEX",
     "http:\\/\\/so\\.open\\.163\\.com\\/open\\/info\\.htm.*",
-    "Proxy"
+    "Proxy",
   ],
   [
     "URL-REGEX",
     "http:\\/\\/play\\.baidu\\.com\\/data\\/music\\/songlink.*",
-    "Proxy"
+    "Proxy",
   ],
   [
     "URL-REGEX",
     "http:\\/\\/tools\\.aplusapi\\.pptv\\.com\\/get_ppi\\?.*",
-    "Proxy"
+    "Proxy",
   ],
   [
     "URL-REGEX",
     "http:\\/\\/live\\.pptv\\.com\\/api\\/subject_list\\?.*",
-    "Proxy"
+    "Proxy",
   ],
   ["URL-REGEX", "http:\\/\\/vxml\\.56\\.com\\/json\\/.*", "Proxy"],
   [
     "URL-REGEX",
     "http:\\/\\/music\\.sina\\.com\\.cn\\/yueku\\/intro\\/.*",
-    "Proxy"
+    "Proxy",
   ],
   [
     "URL-REGEX",
     "http:\\/\\/music\\.sina\\.com\\.cn\\/radio\\/port\\/webFeatureRadioLimitList\\.php.*",
-    "Proxy"
+    "Proxy",
   ],
   ["URL-REGEX", "http:\\/\\/v\\.iask\\.com\\/v_play\\.php.*", "Proxy"],
   [
     "URL-REGEX",
     "http:\\/\\/v\\.iask\\.com\\/v_play_ipad\\.cx\\.php.*",
-    "Proxy"
+    "Proxy",
   ],
   ["URL-REGEX", "http:\\/\\/tv\\.weibo\\.com\\/player\\/.*", "Proxy"],
   ["URL-REGEX", "http:\\/\\/wtv\\.v\\.iask\\.com\\/.*\\.m3u8.*", "Proxy"],
@@ -527,12 +526,12 @@ var RULES = [
   [
     "URL-REGEX",
     "http:\\/\\/video\\.sina\\.com\\.cn\\/interface\\/l\\/u\\/getFocusStatus\\.php.*",
-    "Proxy"
+    "Proxy",
   ],
   [
     "URL-REGEX",
     "http:\\/\\/wtv\\.v\\.iask\\.com\\/player\\/ovs1_idc_list\\.php.*",
-    "Proxy"
+    "Proxy",
   ],
   ["URL-REGEX", "http:\\/\\/info\\.zb\\.video\\.qq\\.com\\/\\?.*", "Proxy"],
   ["URL-REGEX", "http:\\/\\/qzs\\.qq\\.com\\/tencentvideo_v1\\/.*", "Proxy"],
@@ -540,28 +539,28 @@ var RULES = [
   [
     "URL-REGEX",
     "http:\\/\\/aid\\.video\\.qq\\.com\\/fcgi\\-bin\\/userip\\?.*",
-    "Proxy"
+    "Proxy",
   ],
   [
     "URL-REGEX",
     "http:\\/\\/aidbak\\.video\\.qq\\.com\\/fcgi\\-bin\\/userip\\?.*",
-    "Proxy"
+    "Proxy",
   ],
   [
     "URL-REGEX",
     "http:\\/\\/pay\\.video\\.qq\\.com\\/fcgi\\-bin\\/paylimit.*",
-    "Proxy"
+    "Proxy",
   ],
   [
     "URL-REGEX",
     "http:\\/\\/paybak\\.video\\.qq\\.com\\/fcgi\\-bin\\/paylimit.*",
-    "Proxy"
+    "Proxy",
   ],
   ["URL-REGEX", "http:\\/\\/[^/]*\\.video\\.qq\\.com\\/get.*", "Proxy"],
   [
     "URL-REGEX",
     "http:\\/\\/[^/]*\\.video\\.qq\\.com\\/fcgi\\-bin\\/.*",
-    "Proxy"
+    "Proxy",
   ],
   ["URL-REGEX", "http:\\/\\/so\\.iqiyi\\.com\\/so\\/.*", "Proxy"],
   ["URL-REGEX", "http:\\/\\/live\\.tv\\.sohu\\.com\\/live\\/player.*", "Proxy"],
@@ -569,14 +568,14 @@ var RULES = [
   [
     "URL-REGEX",
     "http:\\/\\/my\\.tv\\.sohu\\.com\\/play\\/m3u8version\\.do.*",
-    "Proxy"
+    "Proxy",
   ],
   ["URL-REGEX", "http:\\/\\/[^/]*\\/connectiontest.*", "Proxy"],
   ["URL-REGEX", "http:\\/\\/[^/]*\\/base\\/fcgi\\-bin\\/getsession.*", "Proxy"],
   [
     "URL-REGEX",
     "http:\\/\\/[^/]*\\.ximalaya\\.com\\/linkeye\\-cloud\\/httpdns\\/.*",
-    "Proxy"
+    "Proxy",
   ],
   ["DOMAIN-SUFFIX", "hdl-ws.live.jxcctjg.com", "Proxy"],
   ["DOMAIN-SUFFIX", "hdl-ws.live.yzmfy.com", "Proxy"],
@@ -1073,9 +1072,6 @@ var RULES = [
   ["DOMAIN-SUFFIX", "ipip.net", "Direct"],
   ["DOMAIN-SUFFIX", "nflxvideo.net", "Direct"],
   ["DOMAIN-SUFFIX", "fast.com", "Direct"],
-  ["DOMAIN-SUFFIX", "getmalus.com", "Direct"],
-  ["DOMAIN-SUFFIX", "getmalus.net", "Direct"],
-  ["DOMAIN-SUFFIX", "getmalus.cn", "Direct"],
   ["DOMAIN-SUFFIX", "zoonode.com", "Direct"],
   ["DOMAIN-SUFFIX", "intercom.io", "Direct"],
   ["DOMAIN-SUFFIX", "intercom.com", "Direct"],
@@ -6547,7 +6543,7 @@ var RULES = [
   [
     "URL-REGEX",
     "http:\\/\\/bangumi\\.bilibili\\.com\\/index\\/ding\\-count\\.json",
-    "Direct"
+    "Direct",
   ],
   ["URL-REGEX", "2001:e60:e000::1:23ae", "Direct"],
   ["URL-REGEX", "https:\\/\\/fbcdn.*\\.akamaihd\\.net", "Direct"],
@@ -12213,13 +12209,13 @@ var RULES = [
   ["IP-CIDR", "223.255.0.0/17", "Proxy"],
   ["IP-CIDR", "223.255.236.0/22", "Proxy"],
   ["IP-CIDR", "223.255.252.0/23", "Proxy"],
-  ["FINAL", "Direct"]
+  ["FINAL", "Direct"],
 ];
 var PROXY = "DIRECT; SOCKS 127.0.0.1:57256;";
 var DIRECT = "SOCKS 127.0.0.1:57256";
 
 if (!Array.prototype.indexOf) {
-  Array.prototype.indexOf = function(elt /*, from */) {
+  Array.prototype.indexOf = function (elt /*, from */) {
     var len = this.length >>> 0;
     var from = Number(arguments[1]) || 0;
     from = from < 0 ? Math.ceil(from) : Math.floor(from);
@@ -12235,7 +12231,7 @@ if (!Array.prototype.indexOf) {
 }
 
 if (!String.prototype.endsWith) {
-  String.prototype.endsWith = function(search, this_len) {
+  String.prototype.endsWith = function (search, this_len) {
     if (this_len === undefined || this_len > this.length) {
       this_len = this.length;
     }
