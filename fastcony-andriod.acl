@@ -29,6 +29,7 @@
 (^|\.)acs\.m\.taobao\.com$
 (^|\.)acs\.youku\.com$
 (^|\.)acstatic-dun\.126\.net$
+(^|\.)agn\.aty\.sohu\.com$
 (^|\.)aid\.video\.qq\.com$
 (^|\.)aidbak\.video\.qq\.com$
 (^|\.)akcdnoversea\.inter\.71edge\.com$
@@ -65,6 +66,7 @@
 (^|\.)api\.moomoo\.com$
 (^|\.)api\.qiecdn\.com$
 (^|\.)api\.rr\.tv$
+(^|\.)api\.store\.sohu\.com$
 (^|\.)api\.tv\.itc\.cn$
 (^|\.)api\.tv\.sohu\.com$
 (^|\.)api\.vc\.bilibili\.com$
@@ -161,6 +163,7 @@
 (^|\.)dmzj\.com$
 (^|\.)dnet\.mb\.qq\.com$
 (^|\.)dnspod\.qcloud\.com$
+(^|\.)doh-ctrl\.sohu\.com$
 (^|\.)douban\.fm$
 (^|\.)douyu\.com$
 (^|\.)dspimg\.dftoutiao\.com$
@@ -286,6 +289,7 @@
 (^|\.)iplay\.163\.com$
 (^|\.)ipservice\.163\.com$
 (^|\.)iq\.com$
+(^|\.)itachi\.aty\.sohu\.com$
 (^|\.)itiger\.com$
 (^|\.)ixigua\.com$
 (^|\.)jd\.com$
@@ -318,6 +322,7 @@
 (^|\.)kuwo\.cn$
 (^|\.)l\.qq\.com$
 (^|\.)lanhuapp\.com$
+(^|\.)ldd\.sohu\.com$
 (^|\.)letv\.cn$
 (^|\.)lianjia\.com$
 (^|\.)link\.bilibili\.com$
@@ -372,6 +377,7 @@
 (^|\.)mikecrm\.com$
 (^|\.)mingdao\.com$
 (^|\.)mips\.kugou\.com$
+(^|\.)mmg\.aty\.sohu\.com$
 (^|\.)mobi\.kuwo\.cn$
 (^|\.)mobilefeedback\.kugou\.com$
 (^|\.)mockplus\.cn$
@@ -426,6 +432,7 @@
 (^|\.)pcs-sdk-server\.alibaba\.com$
 (^|\.)pcs\.baidu\.com$
 (^|\.)pcw-api\.iqiyi\.com$
+(^|\.)photovms\.tv\.sohu\.com$
 (^|\.)pic1\.cdncl\.net$
 (^|\.)pinduoduo\.com$
 (^|\.)pis\.alicdn\.com$
